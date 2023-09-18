@@ -29,7 +29,7 @@ print(s)
 ```
 
 |Left-Aligned|Center Aligned|Right Aligned|
-|:-----------|:--------------|:----|
+|:-----------|:--------------:|----:|
 |col 3 is    |some wordy text|10$|
 |col 2 is    |Center|1000$|
 |zebra      |are neat|14550$|
