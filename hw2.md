@@ -30,4 +30,6 @@ digraph {
     no4->no5
 }
 ```
+![NKUST](iamge.png "PERT 圖")
+
 # 關鍵路徑
