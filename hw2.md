@@ -32,6 +32,5 @@ gantt
 # PERT 圖
 
 
-![image](image.png "PERT 圖")
 
 # 關鍵路徑
