@@ -30,7 +30,7 @@ gantt
             
 ```
 # PERT 圖
-
+![pert](pert.png "pert")
 
 
 # 關鍵路徑
